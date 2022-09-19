@@ -1,5 +1,9 @@
 # Symfony Flex Recipes
 
+## Deprecated
+
+Use https://github.com/shopware/recipes instead
+
 This repository is hosting Symfony Flex Recipes for Shopware 6.
 
 ## Install
